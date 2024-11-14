@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "maestro-postgres-cli",
+    "maestro-postgres-core",
+    "maestro-postgres-api"
+]
